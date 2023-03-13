@@ -4,8 +4,8 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Welcome to Fosshost!</Title>
-      <h1>The provider of bare metal to the free and open source community</h1>
+      <Title>Fosshost</Title>
+      <h1>Welcome to Fosshost</h1>
       <Counter />
       <p>
         Visit{" "}
